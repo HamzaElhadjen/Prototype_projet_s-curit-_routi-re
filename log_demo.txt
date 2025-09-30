@@ -1,0 +1,10 @@
+[2025-09-17 15:19:39,374] INFO: CALM -> calm1.mp3
+[2025-09-17 15:19:49,974] INFO: CALM -> calm2.mp3
+[2025-09-17 15:19:58,128] INFO: POI school -> school1.mp3
+[2025-09-17 15:20:07,462] INFO: Simulation alerte 'car' en 5 etapes...
+[2025-09-17 15:20:08,217] INFO: Alerte CONFIRMEE: car
+[2025-09-17 15:20:08,227] INFO: Capture sauvegardee -> captures\demo_1758115208.jpg
+[2025-09-17 15:20:31,839] INFO: Simulation tailgating en 3 etapes...
+[2025-09-17 15:20:32,442] INFO: TAILGATE detecte -> CALM + capture
+[2025-09-17 15:20:32,442] INFO: CALM -> calm3.mp3
+[2025-09-17 15:20:32,454] INFO: Capture sauvegardee -> captures\demo_1758115232.jpg
