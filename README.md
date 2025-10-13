@@ -49,7 +49,7 @@ La communication est assurée de manière asynchrone via QThread et le mécanism
 - Notifications multimodales : vibrations, signaux lumineux, sons  
 - Extension vers des fonctionnalités d’assistance semi-autonome  
 
----
+----
 
 ## Technologies utilisées
 - Python 3
@@ -57,7 +57,7 @@ La communication est assurée de manière asynchrone via QThread et le mécanism
 - PyQt5 (interface graphique)
 - Threads (QThread)
 
----
+--
 
 ## Auteur
 - Elhadjen Hamza Hocine
